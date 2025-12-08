@@ -2,8 +2,8 @@
 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge)
+![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge)
 
 ## 📋 Descripción
 
