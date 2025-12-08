@@ -1,5 +1,10 @@
 # Proyecto Data Science con R
 
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=for-the-badge)
+
 ## 📋 Descripción
 
 Este es un proyecto de Data Science desarrollado en R que proporciona una estructura modular para la descarga, almacenamiento y automatización del procesamiento de datos.
